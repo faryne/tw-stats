@@ -19,7 +19,7 @@ type Data struct {
 	Def       string `xml:"定義" json:"定義"`
 	Year      int64  `xml:"年別" json:"年別"`
 	Total     string `xml:"總計" json:"總計"`
-	Taiwan    string `xml:"台灣地區" json:"台灣地區"`
+	Taiwan    string `xml:"臺灣地區" json:"臺灣地區"`
 	NewTaipei string `xml:"新北市" json:"新北市"`
 	Taipei    string `xml:"臺北市" json:"臺北市"`
 	Taoyuan   string `xml:"桃園市" json:"桃園市"`
