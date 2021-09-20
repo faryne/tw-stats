@@ -59,7 +59,7 @@ func main() {
 
 	for _, v := range data {
 		// 檢查檔案是否存在
-		year := strconv.FormatInt(v.Year, 10)
+		year := strconv.FormatInt(v.Year+1911, 10)
 		subDirName := dirName + "/" + v.Name
 		if err := checkFolderAndBuild(subDirName); err != nil {
 			fmt.Println("cannot create subfolder: " + err.Error())
