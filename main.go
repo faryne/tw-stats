@@ -57,6 +57,7 @@ func main() {
 		return
 	}
 
+	var index = make(map[string]map[int64]Data)
 	for _, v := range data {
 		// 檢查檔案是否存在
 		year := strconv.FormatInt(v.Year+1911, 10)
@@ -72,6 +73,10 @@ func main() {
 			fmt.Println(err)
 			return
 		}
+		if index[v.Name] == nil {
+			index[v.Name] = make(map[int64]Data)
+		}
+		index[v.Name][v.Year] = v
 		// 將產生的內容轉為 json
 		output, _ := json.Marshal(v)
 		// 寫入內容
@@ -80,6 +85,20 @@ func main() {
 		}
 		// 關閉檔案
 		fp.Close()
+	}
+	// 產生目錄檔
+	for k, v := range index {
+		indexFileName := dirName + "/" + k + "/index.json"
+		var fpIndex *os.File
+		if fpIndex, err = os.OpenFile(indexFileName, os.O_CREATE|os.O_WRONLY, fs.ModePerm); err != nil {
+			fmt.Println(err)
+			return
+		}
+		outputIndex, _ := json.Marshal(v)
+		if _, err := fpIndex.Write(outputIndex); err != nil {
+			fmt.Println(err)
+		}
+		fpIndex.Close()
 	}
 }
 
