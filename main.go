@@ -29,7 +29,7 @@ type Data struct {
 	Ilan          string `xml:"宜蘭縣" json:"Ilan"`
 	HsinchuCounty string `xml:"新竹縣" json:"HsinchuCounty"`
 	Miaoli        string `xml:"苗栗縣" json:"Miaoli"`
-	ChangHwa      string `xml:"彰化縣" json:"ChangHwa"`
+	ChangHwa      string `xml:"彰化縣" json:"Changhwa"`
 	Nantou        string `xml:"南投縣" json:"Nantou"`
 	Yunlin        string `xml:"雲林縣" json:"Yunlin"`
 	ChiaYiCounty  string `xml:"嘉義縣" json:"ChiaYiCounty"`
