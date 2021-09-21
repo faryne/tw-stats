@@ -78,7 +78,7 @@ func main() {
 		}
 		index[v.Name][(v.Year + 1911)] = v
 		// 將產生的內容轉為 json
-		output, _ := json.Marshal(v)
+		output, _ := json.MarshalIndent(v, "", "    ")
 		// 寫入內容
 		if _, err := fp.Write(output); err != nil {
 			fmt.Println(err)
@@ -94,7 +94,7 @@ func main() {
 			fmt.Println(err)
 			return
 		}
-		outputIndex, _ := json.Marshal(v)
+		outputIndex, _ := json.MarshalIndent(v, "", "    ")
 		if _, err := fpIndex.Write(outputIndex); err != nil {
 			fmt.Println(err)
 		}
