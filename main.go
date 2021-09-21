@@ -76,7 +76,7 @@ func main() {
 		if index[v.Name] == nil {
 			index[v.Name] = make(map[int64]Data)
 		}
-		index[v.Name][v.Year] = v
+		index[v.Name][(v.Year + 1911)] = v
 		// 將產生的內容轉為 json
 		output, _ := json.Marshal(v)
 		// 寫入內容
