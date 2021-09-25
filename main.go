@@ -58,7 +58,12 @@ func main() {
 	}
 
 	var index = make(map[string]map[int64]Data)
-	var totalIndexes = make(map[string][]string)
+	type indexElement struct {
+		Name  string   `json:"name"`
+		Files []string `json:"files"`
+	}
+	var totalIndexes = make(map[string]*indexElement)
+	var idx = 0
 	for _, v := range data {
 		// 檢查檔案是否存在
 		year := strconv.FormatInt(v.Year+1911, 10)
@@ -75,10 +80,11 @@ func main() {
 			return
 		}
 		if index[v.Name] == nil {
+			idx++
 			index[v.Name] = make(map[int64]Data)
-			totalIndexes[v.Name] = make([]string, 0)
+			totalIndexes[fmt.Sprintf("%04d", idx)] = &indexElement{Name: v.Name, Files: make([]string, 0)}
 		}
-		totalIndexes[v.Name] = append(totalIndexes[v.Name], year+".json")
+		totalIndexes[fmt.Sprintf("%04d", idx)].Files = append(totalIndexes[fmt.Sprintf("%04d", idx)].Files, year+".json")
 		index[v.Name][(v.Year + 1911)] = v
 		// 將產生的內容轉為 json
 		output, _ := json.MarshalIndent(v, "", "    ")
