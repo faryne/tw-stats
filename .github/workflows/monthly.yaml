@@ -2,6 +2,9 @@ name: monthly-build
 on:
   schedule:
     - cron: "0 4 1 * *"
+  push:
+    branches:
+      - master
 
 jobs:
   monthly-build-doc:
