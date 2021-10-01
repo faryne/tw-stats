@@ -1,4 +1,5 @@
 ## 行政院主計總處-縣市指標
+[![monthly-build](https://github.com/faryne/tw-stats/actions/workflows/monthly.yaml/badge.svg)](https://github.com/faryne/tw-stats/actions/workflows/monthly.yaml)
 
 ### 產生緣由
 1. 因為原資料是將每年度的所有指標全部產生於一個檔案，導致檔案內容過大，只是要讀取某一個指標就變得有點困擾。
