@@ -17,6 +17,8 @@ jobs:
       - run: |
           go run main.go
       - run: |
+          git config --global user.email "${{ secrets.EMAIL }}"
+          git config --global user.name "Faryne"
           git add .
           D=`date +"%Y-%m-%d"`
           git commit -m "${D} build"
