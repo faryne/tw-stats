@@ -20,7 +20,7 @@ jobs:
           git config --global user.email "${{ secrets.EMAIL }}"
           git config --global user.name "Faryne"
           A=$(printf "%d" `git status | grep nothing | wc -l`)
-          if [ "${A}" == "1" ]; then
+          if [ "${A}" == "0" ]; then
             git add .
             D=`date +"%Y-%m-%d"`
             git commit -m "${D} build"
