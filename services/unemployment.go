@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"github.com/faryne/tw-stats/constants"
 	"github.com/faryne/tw-stats/models"
+	"github.com/faryne/tw-stats/services/helper/generateIndex"
 	"io/fs"
 	"net/http"
 	"os"
@@ -131,6 +132,7 @@ func DoGenderUnemployment() {
 		fmt.Println(err)
 	}
 	fpMaleIndex.Close()
+	generateIndex.Add("年度失業率-男")
 
 	var femaleIndex = femaleDir + "/index.json"
 	fpFemaleIndex, err := os.OpenFile(femaleIndex, os.O_CREATE|os.O_WRONLY, fs.ModePerm)
@@ -143,4 +145,5 @@ func DoGenderUnemployment() {
 		fmt.Println(err)
 	}
 	fpFemaleIndex.Close()
+	generateIndex.Add("年度失業率-女")
 }

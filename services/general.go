@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"github.com/faryne/tw-stats/constants"
 	"github.com/faryne/tw-stats/models"
+	"github.com/faryne/tw-stats/services/helper/generateIndex"
 	"io/fs"
 	"net/http"
 	"os"
@@ -25,7 +26,6 @@ func GenerateGeneralData() {
 	}
 
 	var index = make(map[string]map[int64]models.Data)
-	var totalIndexes = make(map[string]string)
 	var idx = 0
 	for _, v := range data {
 		// 檢查檔案是否存在
@@ -45,7 +45,7 @@ func GenerateGeneralData() {
 		if index[v.Name] == nil {
 			idx++
 			index[v.Name] = make(map[int64]models.Data)
-			totalIndexes[fmt.Sprintf("%04d", idx)] = v.Name
+			generateIndex.Add(v.Name)
 		}
 		index[v.Name][(v.Year + 1911)] = v
 		// 將產生的內容轉為 json
@@ -58,14 +58,7 @@ func GenerateGeneralData() {
 		fp.Close()
 	}
 	// 寫入總目錄檔
-	fpMain, err := os.OpenFile(constants.RootDirName+"/index.json", os.O_CREATE|os.O_WRONLY, fs.ModePerm)
-	if err != nil {
-		fmt.Println("cannot generate main index file")
-	} else {
-		mainIndex, _ := json.MarshalIndent(totalIndexes, "", "    ")
-		fpMain.Write(mainIndex)
-		fpMain.Close()
-	}
+	generateIndex.Generate()
 	// 產生目錄檔
 	for k, v := range index {
 		indexFileName := constants.RootDirName + "/" + k + "/index.json"
