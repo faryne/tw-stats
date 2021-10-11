@@ -87,7 +87,7 @@ func DoGenderUnemployment() {
 			for i := 0; i < reflectField2.Type().NumField(); i++ {
 				var city = reflectField2.Type().Field(i).Tag.Get("xml")
 				if strings.Contains(area, city) {
-					reflect.ValueOf(&result2).Elem().Field(i).SetString(fmt.Sprintf("%.2f", v.Male))
+					reflect.ValueOf(&result2).Elem().Field(i).SetString(fmt.Sprintf("%.2f", v.Female))
 				}
 			}
 		}
@@ -114,7 +114,7 @@ func DoGenderUnemployment() {
 			return
 		}
 		outputFemale, _ := json.MarshalIndent(result2, "", "    ")
-		if _, err := fpMale.Write(outputFemale); err != nil {
+		if _, err := fpFemale.Write(outputFemale); err != nil {
 			fmt.Println(err)
 		}
 		defer fpFemale.Close()
@@ -132,7 +132,7 @@ func DoGenderUnemployment() {
 	}
 	fpMaleIndex.Close()
 
-	var femaleIndex = femaleDir + "index.json"
+	var femaleIndex = femaleDir + "/index.json"
 	fpFemaleIndex, err := os.OpenFile(femaleIndex, os.O_CREATE|os.O_WRONLY, fs.ModePerm)
 	if err != nil {
 		fmt.Println(err)
