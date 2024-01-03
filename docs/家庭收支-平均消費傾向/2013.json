@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "平均每戶消費支出占可支配所得比率。",
     "ByYear": 102,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "79.38",
     "NewTaipei": "80.61",
     "Taipei": "78.31",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "76.82",
     "Kinmen": "60.48",
     "Matsu": "56.86"
+}
 }

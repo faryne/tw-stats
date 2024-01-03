@@ -3,7 +3,7 @@
     "Unit": "臺",
     "Explain": "每百戶擁有家用電腦數。",
     "ByYear": 98,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "95.11",
     "NewTaipei": "109.3",
     "Taipei": "123.03",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "69.1",
     "Kinmen": "85.63",
     "Matsu": "102.16"
+}
 }

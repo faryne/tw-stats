@@ -3,7 +3,7 @@
     "Unit": "公噸",
     "Explain": "指在淺海從事水產動植物之養育或蓄養者之生產量。",
     "ByYear": 87,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "26034",
     "NewTaipei": "-",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "-",
     "HsinchuCity": "73",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

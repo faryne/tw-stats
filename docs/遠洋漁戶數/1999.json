@@ -1,9 +1,9 @@
 {
     "Name": "遠洋漁戶數",
     "Unit": "戶",
-    "Explain": "指使用動力漁船在我國經濟海域外從事漁撈作業者。\n",
+    "Explain": "指使用動力漁船在我國經濟海域外從事漁撈作業者。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "6043",
     "NewTaipei": "63",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "910",
     "HsinchuCity": "-",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+} "..."
 }

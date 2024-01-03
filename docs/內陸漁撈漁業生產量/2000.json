@@ -3,7 +3,7 @@
     "Unit": "公噸",
     "Explain": "指在內陸從事水產動植物之採捕為業者之生產量。",
     "ByYear": 89,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "558",
     "NewTaipei": "-",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "-",
     "HsinchuCity": "-",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

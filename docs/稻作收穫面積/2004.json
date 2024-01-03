@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "稻作種植面積中扣除當期作因災害等原因致全無收穫之面積。",
     "ByYear": 93,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "237014.88",
     "NewTaipei": "316.69",
     "Taipei": "559.24",
@@ -25,6 +25,7 @@
     "Keelung": "-",
     "HsinchuCity": "850.99",
     "ChiaYiCity": "1446.88",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

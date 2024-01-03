@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "從事包括礦業及土石採取業、製造業、水電燃氣業與營造業之就業者占總就業者之百分比。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "37.21",
     "NewTaipei": "40.89",
     "Taipei": "21.32",
@@ -25,6 +25,7 @@
     "Keelung": "30.53",
     "HsinchuCity": "42.04",
     "ChiaYiCity": "26.25",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

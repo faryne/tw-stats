@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "從事農林漁牧業之就業者占總就業者之百分比。",
     "ByYear": 108,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "4.86",
     "NewTaipei": "0.74",
     "Taipei": "0.13",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "2.11",
     "Kinmen": "3.51",
     "Matsu": "2.01"
+}
 }

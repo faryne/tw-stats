@@ -3,7 +3,7 @@
     "Unit": "臺",
     "Explain": "每百戶擁有冷暖氣機數。",
     "ByYear": 100,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "207.55",
     "NewTaipei": "215.07",
     "Taipei": "240.75",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "199.72",
     "Kinmen": "234",
     "Matsu": "222.38"
+}
 }

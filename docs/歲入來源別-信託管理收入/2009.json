@@ -3,10 +3,10 @@
     "Unit": "百萬元",
     "Explain": "依法為信託管理或受委託代辦時，得收信託管理費。",
     "ByYear": 98,
-    "Total": "19.661",
-    "Taiwan": "19.661",
+    "Total": "19.66",
+    "Taiwan": "19.66",
     "NewTaipei": "-",
-    "Taipei": "0.499",
+    "Taipei": "0.5",
     "Taoyuan": "-",
     "Taichung": "-",
     "Tainan": "-",
@@ -14,10 +14,10 @@
     "Ilan": "-",
     "HsinchuCounty": "-",
     "Miaoli": "-",
-    "Changhwa": "0.416",
-    "Nantou": "0.399",
+    "Changhwa": "0.42",
+    "Nantou": "0.4",
     "Yunlin": "-",
-    "ChiaYiCounty": "0.175",
+    "ChiaYiCounty": "0.18",
     "Pingtung": "-",
     "Taitung": "-",
     "Hualien": "-",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "-",
     "Kinmen": "-",
     "Matsu": "-"
+}": "-"
 }

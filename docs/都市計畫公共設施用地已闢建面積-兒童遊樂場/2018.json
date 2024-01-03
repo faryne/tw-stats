@@ -3,19 +3,19 @@
     "Unit": "公頃",
     "Explain": "依都市計畫設置，為供兒童遊戲而專設的場所用地。",
     "ByYear": 107,
-    "Total": "287.3038",
-    "Taiwan": "286.9438",
+    "Total": "287.3",
+    "Taiwan": "286.94",
     "NewTaipei": "12.78",
-    "Taipei": "1.3612",
+    "Taipei": "1.36",
     "Taoyuan": "38.27",
-    "Taichung": "60.1954",
+    "Taichung": "60.2",
     "Tainan": "27.63",
     "Kaohsiung": "27.74",
-    "Ilan": "1.8912",
+    "Ilan": "1.89",
     "HsinchuCounty": "16.2",
     "Miaoli": "2.7",
     "Changhwa": "22.11",
-    "Nantou": "2.066",
+    "Nantou": "2.07",
     "Yunlin": "2.22",
     "ChiaYiCounty": "2.93",
     "Pingtung": "3.08",
@@ -26,5 +26,6 @@
     "HsinchuCity": "4.7",
     "ChiaYiCity": "1.49",
     "Kinmen": "0.36",
-    "Matsu": "0"
+    "Matsu": "-"
+}Matsu": "0"
 }

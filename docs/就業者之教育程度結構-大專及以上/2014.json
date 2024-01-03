@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "大專及以上教育程度之就業者占總就業者之百分比。",
     "ByYear": 103,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "47.66",
     "NewTaipei": "48.46",
     "Taipei": "78.56",
@@ -25,6 +25,7 @@
     "Keelung": "45.16",
     "HsinchuCity": "57.36",
     "ChiaYiCity": "61.95",
-    "Kinmen": "37.53",
+    "Kinmen": "37.55",
     "Matsu": "39.8"
+}
 }

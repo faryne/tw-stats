@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "就業者主要工作場所之身分係自己或合夥經營事業而僱用他人幫忙者占總就業者之百分比。",
     "ByYear": 105,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "3.95",
     "NewTaipei": "4.16",
     "Taipei": "5.11",
@@ -25,6 +25,6 @@
     "Keelung": "3.7",
     "HsinchuCity": "3.8",
     "ChiaYiCity": "4.79",
-    "Kinmen": "4",
+    "Kinmen": "4.01",
     "Matsu": "3.93"
 }

@@ -3,8 +3,8 @@
     "Unit": "公噸",
     "Explain": "糙米之總生產量。",
     "ByYear": 92,
-    "Total": "...",
-    "Taiwan": "1338287.12562",
+    "Total": "-",
+    "Taiwan": "1338287.126",
     "NewTaipei": "1540.9",
     "Taipei": "2064.19",
     "Taoyuan": "43589.207",
@@ -12,7 +12,7 @@
     "Tainan": "130642.078",
     "Kaohsiung": "35400.277",
     "Ilan": "50094.344",
-    "HsinchuCounty": "29535.4196",
+    "HsinchuCounty": "29535.42",
     "Miaoli": "55698.042",
     "Changhwa": "243919.708",
     "Nantou": "23287.148",
@@ -23,8 +23,9 @@
     "Hualien": "58350.659",
     "Penghu": "-",
     "Keelung": "-",
-    "HsinchuCity": "5099.46902",
+    "HsinchuCity": "5099.469",
     "ChiaYiCity": "8449.227",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}su": "..."
 }

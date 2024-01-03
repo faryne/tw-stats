@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "15至24歲就業者占總就業者之百分比。",
     "ByYear": 99,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "7.23",
     "NewTaipei": "7.48",
     "Taipei": "5.16",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "6.3",
     "Kinmen": "6.1",
     "Matsu": "2.19"
+}
 }

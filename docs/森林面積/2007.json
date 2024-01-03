@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "依航空測量資料並配合人工實地勘查所得資料。",
     "ByYear": 96,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "2101718.85",
     "NewTaipei": "139533.2",
     "Taipei": "8979",
@@ -25,6 +25,7 @@
     "Keelung": "9064.19",
     "HsinchuCity": "1782.29",
     "ChiaYiCity": "145.05",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

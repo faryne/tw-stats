@@ -3,7 +3,7 @@
     "Unit": "戶",
     "Explain": "指使用船筏或不使用船筏在我國領海（12浬）內從事漁業者。",
     "ByYear": 89,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "52456",
     "NewTaipei": "5364",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "370",
     "HsinchuCity": "522",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

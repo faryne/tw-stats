@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "平均每戶書報雜誌消費金額（不含贈閱）占消費支出比率。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "0.86",
     "NewTaipei": "0.83",
     "Taipei": "0.92",
@@ -26,5 +26,6 @@
     "HsinchuCity": "0.94",
     "ChiaYiCity": "0.89",
     "Kinmen": "0.73",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "指實際作為農耕使用之土地面積，亦包括短期休閒或休耕土地。",
     "ByYear": 97,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "822363.8",
     "NewTaipei": "31734.82",
     "Taipei": "3311.43",
@@ -25,6 +25,7 @@
     "Keelung": "735.3",
     "HsinchuCity": "2507.75",
     "ChiaYiCity": "2070.79",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

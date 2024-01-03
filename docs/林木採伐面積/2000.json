@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "當年林木採伐之面積。",
     "ByYear": 89,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "526.46",
     "NewTaipei": "-",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "-",
     "HsinchuCity": "-",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

@@ -3,18 +3,18 @@
     "Unit": "公頃",
     "Explain": "當年種植保安林、經濟林及其他林之面積。",
     "ByYear": 99,
-    "Total": "910.1891",
-    "Taiwan": "878.2791",
+    "Total": "910.19",
+    "Taiwan": "878.28",
     "NewTaipei": "0.71",
     "Taipei": "1.41",
     "Taoyuan": "16.35",
     "Taichung": "6.38",
-    "Tainan": "51.3195",
+    "Tainan": "51.32",
     "Kaohsiung": "25.68",
     "Ilan": "8.52",
     "HsinchuCounty": "56.57",
     "Miaoli": "66.62",
-    "Changhwa": "18.3196",
+    "Changhwa": "18.32",
     "Nantou": "56.48",
     "Yunlin": "19.06",
     "ChiaYiCounty": "49.02",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "-",
     "Kinmen": "30.5",
     "Matsu": "-"
+}": "-"
 }

@@ -3,7 +3,7 @@
     "Unit": "千元",
     "Explain": "營利事業登記之公司行號依規定申報或核定之銷售額。",
     "ByYear": 90,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "23548234024",
     "NewTaipei": "3277433848",
     "Taipei": "8749928218",
@@ -25,6 +25,7 @@
     "Keelung": "162693574",
     "HsinchuCity": "758327177",
     "ChiaYiCity": "154594053",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

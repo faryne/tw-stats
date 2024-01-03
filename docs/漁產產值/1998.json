@@ -3,7 +3,7 @@
     "Unit": "千元",
     "Explain": "漁產產值=各項漁產品單價＊產量。",
     "ByYear": 87,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "57442693",
     "NewTaipei": "2844962",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "3373291",
     "HsinchuCity": "2205889",
     "ChiaYiCity": "67",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

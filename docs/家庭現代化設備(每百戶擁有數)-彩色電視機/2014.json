@@ -3,7 +3,7 @@
     "Unit": "臺",
     "Explain": "每百戶擁有彩色電視機數。",
     "ByYear": 103,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "157.25",
     "NewTaipei": "153.53",
     "Taipei": "152.01",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "152.34",
     "Kinmen": "188.01",
     "Matsu": "202.4"
+}
 }

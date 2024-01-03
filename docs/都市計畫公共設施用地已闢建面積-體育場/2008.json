@@ -3,12 +3,12 @@
     "Unit": "公頃",
     "Explain": "依都市計畫設置之體育場。",
     "ByYear": 97,
-    "Total": "724.0164",
-    "Taiwan": "702.1264",
+    "Total": "724.02",
+    "Taiwan": "702.13",
     "NewTaipei": "59.97",
-    "Taipei": "62.0784",
+    "Taipei": "62.08",
     "Taoyuan": "88.24",
-    "Taichung": "95.398",
+    "Taichung": "95.4",
     "Tainan": "81.64",
     "Kaohsiung": "55.38",
     "Ilan": "42.72",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "33.54",
     "Kinmen": "12.86",
     "Matsu": "9.03"
+}"9.03"
 }

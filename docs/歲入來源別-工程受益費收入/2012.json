@@ -3,9 +3,9 @@
     "Unit": "百萬元",
     "Explain": "對於因道路、堤防、溝渠、碼頭、港口或其他土地改良之水陸工程而直接享受利益之不動產或受益之船舶，得徵收工程受益費。",
     "ByYear": 101,
-    "Total": "6.516",
-    "Taiwan": "6.516",
-    "NewTaipei": "6.455",
+    "Total": "6.52",
+    "Taiwan": "6.52",
+    "NewTaipei": "6.46",
     "Taipei": "-",
     "Taoyuan": "-",
     "Taichung": "-",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "-",
     "Kinmen": "-",
     "Matsu": "-"
+}"
 }

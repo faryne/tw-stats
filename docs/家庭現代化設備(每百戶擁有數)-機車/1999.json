@@ -3,7 +3,7 @@
     "Unit": "輛",
     "Explain": "每百戶擁有機車數。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "125.18",
     "NewTaipei": "118.54",
     "Taipei": "81.02",
@@ -26,5 +26,6 @@
     "HsinchuCity": "149.98",
     "ChiaYiCity": "146.75",
     "Kinmen": "93.4",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

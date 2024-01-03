@@ -1,10 +1,10 @@
 {
     "Name": "嬰兒死亡率",
-    "Unit": "人／每千活嬰",
+    "Unit": "人/每千活嬰",
     "Explain": "每千個活產嬰兒之嬰兒死亡數。",
     "ByYear": 106,
     "Total": "4",
-    "Taiwan": "3.97043141558563",
+    "Taiwan": "3.97",
     "NewTaipei": "4.3",
     "Taipei": "3.6",
     "Taoyuan": "3.8",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "2.6",
     "Kinmen": "3.8",
     "Matsu": "-"
+}"Matsu": "-"
 }

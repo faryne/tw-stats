@@ -3,7 +3,7 @@
     "Unit": "份",
     "Explain": "每百戶擁有報紙份數（含贈閱）。",
     "ByYear": 94,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "33.68",
     "NewTaipei": "39.25",
     "Taipei": "43.15",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "34.3",
     "Kinmen": "33.79",
     "Matsu": "38.55"
+}
 }

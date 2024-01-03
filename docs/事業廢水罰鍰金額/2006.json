@@ -5,7 +5,7 @@
     "ByYear": 95,
     "Total": "-",
     "Taiwan": "269621",
-    "NewTaipei": "23272.26",
+    "NewTaipei": "23272",
     "Taipei": "1870",
     "Taoyuan": "90896",
     "Taichung": "18620",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "900",
     "Kinmen": "-",
     "Matsu": "-"
+}"
 }

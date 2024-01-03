@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "45至64歲就業者占總就業者之百分比。",
     "ByYear": 104,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "37.17",
     "NewTaipei": "36.59",
     "Taipei": "39.18",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "38.24",
     "Kinmen": "44.39",
     "Matsu": "51.69"
+}
 }

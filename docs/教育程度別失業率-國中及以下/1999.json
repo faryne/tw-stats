@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "國中及以下程度者之失業率。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "2.6",
     "NewTaipei": "2.7",
     "Taipei": "2.8",
@@ -25,6 +25,7 @@
     "Keelung": "3.5",
     "HsinchuCity": "2.9",
     "ChiaYiCity": "4",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

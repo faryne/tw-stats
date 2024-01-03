@@ -3,7 +3,7 @@
     "Unit": "千元",
     "Explain": "農產產值=各項農產品單價＊產量。",
     "ByYear": 93,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "162300580",
     "NewTaipei": "1765320",
     "Taipei": "391627",
@@ -25,6 +25,7 @@
     "Keelung": "44871",
     "HsinchuCity": "192898",
     "ChiaYiCity": "507140",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

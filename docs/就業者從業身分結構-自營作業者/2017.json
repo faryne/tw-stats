@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "就業者主要工作場所之身分係自己或合夥經營事業或獨立從事 一項專門職業或技藝工作者占總就業者之百分比。",
     "ByYear": 106,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "11.65",
     "NewTaipei": "7.79",
     "Taipei": "7",
@@ -25,6 +25,7 @@
     "Keelung": "8.3",
     "HsinchuCity": "7.84",
     "ChiaYiCity": "11.23",
-    "Kinmen": "17.21",
+    "Kinmen": "17.23",
     "Matsu": "17.46"
+}
 }

@@ -3,7 +3,7 @@
     "Unit": "臺",
     "Explain": "每百戶擁有行動電話數。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "89.29",
     "NewTaipei": "104.45",
     "Taipei": "120.49",
@@ -26,5 +26,6 @@
     "HsinchuCity": "107.87",
     "ChiaYiCity": "62.91",
     "Kinmen": "77.94",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

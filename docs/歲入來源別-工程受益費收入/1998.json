@@ -3,8 +3,8 @@
     "Unit": "百萬元",
     "Explain": "對於因道路、堤防、溝渠、碼頭、港口或其他土地改良之水陸工程而直接享受利益之不動產或受益之船舶，得徵收工程受益費。",
     "ByYear": 87,
-    "Total": "25.001",
-    "Taiwan": "25.001",
+    "Total": "25",
+    "Taiwan": "25",
     "NewTaipei": "-",
     "Taipei": "-",
     "Taoyuan": "-",
@@ -13,7 +13,7 @@
     "Kaohsiung": "-",
     "Ilan": "-",
     "HsinchuCounty": "-",
-    "Miaoli": "0.799",
+    "Miaoli": "0.8",
     "Changhwa": "-",
     "Nantou": "-",
     "Yunlin": "-",
@@ -23,8 +23,9 @@
     "Hualien": "-",
     "Penghu": "-",
     "Keelung": "-",
-    "HsinchuCity": "24.195",
-    "ChiaYiCity": "0.006",
+    "HsinchuCity": "24.2",
+    "ChiaYiCity": "0.01",
     "Kinmen": "-",
     "Matsu": "-"
+}Matsu": "-"
 }

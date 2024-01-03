@@ -3,7 +3,7 @@
     "Unit": "戶",
     "Explain": "每百戶擁有有線電視頻道設備戶數。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "67.96",
     "NewTaipei": "71.33",
     "Taipei": "78.88",
@@ -26,5 +26,6 @@
     "HsinchuCity": "86.83",
     "ChiaYiCity": "71.81",
     "Kinmen": "40.6",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

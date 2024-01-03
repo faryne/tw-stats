@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "當年種植保安林、經濟林及其他林之面積。",
     "ByYear": 91,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "4063.67",
     "NewTaipei": "253.15",
     "Taipei": "3.48",
@@ -25,6 +25,7 @@
     "Keelung": "75.7",
     "HsinchuCity": "-",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

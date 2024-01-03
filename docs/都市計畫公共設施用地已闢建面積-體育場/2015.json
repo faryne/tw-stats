@@ -3,10 +3,10 @@
     "Unit": "公頃",
     "Explain": "依都市計畫設置之體育場。",
     "ByYear": 104,
-    "Total": "811.2789",
-    "Taiwan": "788.5389",
+    "Total": "811.28",
+    "Taiwan": "788.54",
     "NewTaipei": "60.02",
-    "Taipei": "28.3481",
+    "Taipei": "28.35",
     "Taoyuan": "93.09",
     "Taichung": "129.86",
     "Tainan": "73.53",
@@ -14,10 +14,10 @@
     "Ilan": "42.72",
     "HsinchuCounty": "20.42",
     "Miaoli": "31.72",
-    "Changhwa": "27.5678",
-    "Nantou": "14.3773",
+    "Changhwa": "27.57",
+    "Nantou": "14.38",
     "Yunlin": "38.73",
-    "ChiaYiCounty": "20.7657",
+    "ChiaYiCounty": "20.77",
     "Pingtung": "12.59",
     "Taitung": "11.76",
     "Hualien": "14.05",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "20.72",
     "Kinmen": "12.8",
     "Matsu": "9.94"
+}u": "9.94"
 }

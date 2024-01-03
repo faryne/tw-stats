@@ -3,19 +3,19 @@
     "Unit": "公噸",
     "Explain": "指在內陸從事水產動植物之採捕為業者之生產量。",
     "ByYear": 106,
-    "Total": "2624.163",
-    "Taiwan": "2624.163",
+    "Total": "2624",
+    "Taiwan": "2624",
     "NewTaipei": "-",
     "Taipei": "-",
-    "Taoyuan": "2612.147",
+    "Taoyuan": "2612",
     "Taichung": "-",
     "Tainan": "-",
     "Kaohsiung": "-",
-    "Ilan": "2.095",
+    "Ilan": "2",
     "HsinchuCounty": "-",
     "Miaoli": "-",
     "Changhwa": "-",
-    "Nantou": "9.921",
+    "Nantou": "10",
     "Yunlin": "-",
     "ChiaYiCounty": "-",
     "Pingtung": "-",
@@ -26,5 +26,7 @@
     "HsinchuCity": "-",
     "ChiaYiCity": "-",
     "Kinmen": "-",
+    "Matsu": "-"
+}
     "Matsu": "-"
 }

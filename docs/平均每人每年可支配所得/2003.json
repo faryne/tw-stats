@@ -3,7 +3,7 @@
     "Unit": "元",
     "Explain": "平均每人每年可支配所得。",
     "ByYear": 92,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "249763",
     "NewTaipei": "256421",
     "Taipei": "365696",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "220629",
     "Kinmen": "196466",
     "Matsu": "311023"
+}
 }

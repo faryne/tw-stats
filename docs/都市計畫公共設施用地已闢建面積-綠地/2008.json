@@ -3,16 +3,16 @@
     "Unit": "公頃",
     "Explain": "依都市計畫設置，除為休憩性開放空間，並兼具隔離、緩衝機能之場地。",
     "ByYear": 97,
-    "Total": "649.7674",
-    "Taiwan": "647.1274",
-    "NewTaipei": "50.8217",
-    "Taipei": "69.0415",
+    "Total": "649.77",
+    "Taiwan": "647.13",
+    "NewTaipei": "50.82",
+    "Taipei": "69.04",
     "Taoyuan": "5.8",
-    "Taichung": "62.8784",
+    "Taichung": "62.88",
     "Tainan": "77.67",
     "Kaohsiung": "222.98",
     "Ilan": "2.15",
-    "HsinchuCounty": "11.6458",
+    "HsinchuCounty": "11.65",
     "Miaoli": "3.43",
     "Changhwa": "3.35",
     "Nantou": "23",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "0.44",
     "Kinmen": "2.64",
     "Matsu": "-"
+}atsu": "-"
 }

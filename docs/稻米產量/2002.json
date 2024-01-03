@@ -3,7 +3,7 @@
     "Unit": "公噸",
     "Explain": "糙米之總生產量。",
     "ByYear": 91,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "1460669.927",
     "NewTaipei": "2252.084",
     "Taipei": "2233.845",
@@ -25,6 +25,7 @@
     "Keelung": "-",
     "HsinchuCity": "7573.215",
     "ChiaYiCity": "8353.506",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

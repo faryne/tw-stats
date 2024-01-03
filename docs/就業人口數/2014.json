@@ -3,7 +3,7 @@
     "Unit": "千人",
     "Explain": "資料標準週內年滿十五歲從事有酬工作者或從事十五小時以上之無酬家屬工作者。",
     "ByYear": 103,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "11079",
     "NewTaipei": "1927",
     "Taipei": "1262",
@@ -25,6 +25,7 @@
     "Keelung": "176",
     "HsinchuCity": "201",
     "ChiaYiCity": "123",
-    "Kinmen": "21",
+    "Kinmen": "22",
     "Matsu": "3"
+}
 }

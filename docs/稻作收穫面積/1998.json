@@ -3,13 +3,13 @@
     "Unit": "公頃",
     "Explain": "稻作種植面積中扣除當期作因災害等原因致全無收穫之面積。",
     "ByYear": 87,
-    "Total": "...",
-    "Taiwan": "357686.595",
+    "Total": "-",
+    "Taiwan": "357686.6",
     "NewTaipei": "848.68",
     "Taipei": "617.98",
     "Taoyuan": "34658.72",
     "Taichung": "36552.41",
-    "Tainan": "35273.515",
+    "Tainan": "35273.52",
     "Kaohsiung": "10370.02",
     "Ilan": "12374.23",
     "HsinchuCounty": "15002.96",
@@ -25,6 +25,7 @@
     "Keelung": "-",
     "HsinchuCity": "2990.46",
     "ChiaYiCity": "1779.31",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}: "..."
 }

@@ -1,9 +1,9 @@
 {
     "Name": "遠洋漁業生產量",
     "Unit": "公噸",
-    "Explain": "指使用動力漁船在我國經濟海域外從事漁撈作業者之生產量。\n",
+    "Explain": "指使用動力漁船在我國經濟海域外從事漁撈作業者之生產量。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "359679",
     "NewTaipei": "-",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "34768",
     "HsinchuCity": "-",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+} "..."
 }

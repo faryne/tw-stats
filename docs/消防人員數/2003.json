@@ -1,7 +1,7 @@
 {
     "Name": "消防人員數",
     "Unit": "人",
-    "Explain": "係指從事消防救災、救助之現有消防隊編制人員數。",
+    "Explain": "係指消防單位組織編制內現職人力。",
     "ByYear": 92,
     "Total": "9130",
     "Taiwan": "9060",
@@ -26,5 +26,7 @@
     "HsinchuCity": "179",
     "ChiaYiCity": "187",
     "Kinmen": "55",
+    "Matsu": "15"
+},
     "Matsu": "15"
 }

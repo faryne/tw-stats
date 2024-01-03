@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "15歲以上民間人口受大專及以上教育者占15歲以上民間人口之百分比。",
     "ByYear": 91,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "25.99",
     "NewTaipei": "25.82",
     "Taipei": "47.61",
@@ -26,5 +26,6 @@
     "HsinchuCity": "31.59",
     "ChiaYiCity": "37.07",
     "Kinmen": "14.28",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

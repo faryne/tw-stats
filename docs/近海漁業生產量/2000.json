@@ -3,7 +3,7 @@
     "Unit": "公噸",
     "Explain": "指使用動力漁船在我國經濟海域（12海浬-200海浬）內從事漁業者之生產量。",
     "ByYear": 89,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "169522",
     "NewTaipei": "10959",
     "Taipei": "-",
@@ -25,6 +25,7 @@
     "Keelung": "18694",
     "HsinchuCity": "19787",
     "ChiaYiCity": "-",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

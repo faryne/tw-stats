@@ -3,7 +3,7 @@
     "Unit": "元",
     "Explain": "平均每一戶之消費性支出總額。",
     "ByYear": 93,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "692648",
     "NewTaipei": "740753",
     "Taipei": "925845",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "554657",
     "Kinmen": "497168",
     "Matsu": "672966"
+}
 }

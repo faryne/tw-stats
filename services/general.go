@@ -4,13 +4,15 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
-	"github.com/faryne/tw-stats/constants"
-	"github.com/faryne/tw-stats/models"
-	"github.com/faryne/tw-stats/services/helper/generateIndex"
 	"io/fs"
 	"net/http"
 	"os"
 	"strconv"
+	"strings"
+
+	"github.com/faryne/tw-stats/constants"
+	"github.com/faryne/tw-stats/models"
+	"github.com/faryne/tw-stats/services/helper/generateIndex"
 )
 
 func GenerateGeneralData() {
@@ -30,7 +32,8 @@ func GenerateGeneralData() {
 	for _, v := range data {
 		// 檢查檔案是否存在
 		year := strconv.FormatInt(v.Year+1911, 10)
-		subDirName := constants.RootDirName + "/" + v.Name
+		var subDirName = strings.Trim(constants.RootDirName+"/"+v.Name, "")
+		subDirName = strings.ReplaceAll(subDirName, ">", "大於")
 		if err := checkFolderAndBuild(subDirName); err != nil {
 			fmt.Println("cannot create subfolder: " + err.Error())
 			return
@@ -61,7 +64,7 @@ func GenerateGeneralData() {
 	generateIndex.Generate()
 	// 產生目錄檔
 	for k, v := range index {
-		indexFileName := constants.RootDirName + "/" + k + "/index.json"
+		indexFileName := constants.RootDirName + "/" + strings.ReplaceAll(k, ">", "大於") + "/index.json"
 		var fpIndex *os.File
 		if fpIndex, err = os.OpenFile(indexFileName, os.O_CREATE|os.O_WRONLY, fs.ModePerm); err != nil {
 			fmt.Println(err)
@@ -76,7 +79,7 @@ func GenerateGeneralData() {
 }
 
 func readAndParseXML() ([]models.Data, error) {
-	url := "https://www.dgbas.gov.tw/public/data/open/LocalStat/%E7%B8%A3%E5%B8%82%E6%8C%87%E6%A8%99.xml"
+	url := "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11525/229624/%E7%B8%A3%E5%B8%82%E6%8C%87%E6%A8%99r.xml"
 	// 抓取內容
 	resp, err := http.Get(url)
 	if err != nil {

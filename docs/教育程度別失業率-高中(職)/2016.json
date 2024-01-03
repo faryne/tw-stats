@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "高中（職）程度者之失業率。",
     "ByYear": 105,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "3.9",
     "NewTaipei": "4",
     "Taipei": "4.2",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "4.8",
     "Kinmen": "1.2",
     "Matsu": "0.7"
+}
 }

@@ -3,7 +3,7 @@
     "Unit": "千人",
     "Explain": "資料標準週內年滿十五歲可以工作之民間人口，包括就業者與失業者。",
     "ByYear": 97,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "10853",
     "NewTaipei": "1858",
     "Taipei": "1232",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "119",
     "Kinmen": "18",
     "Matsu": "3"
+}
 }

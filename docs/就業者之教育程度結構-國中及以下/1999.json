@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "國中及以下教育程度之就業者占總就業者之百分比。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "38.45",
     "NewTaipei": "37.87",
     "Taipei": "18.48",
@@ -25,6 +25,7 @@
     "Keelung": "34.29",
     "HsinchuCity": "33.41",
     "ChiaYiCity": "25.41",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

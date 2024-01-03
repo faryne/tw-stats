@@ -1,9 +1,9 @@
 {
     "Name": "漁業生產量",
     "Unit": "公噸",
-    "Explain": "包括遠洋、近海、沿岸、海面養殖、內陸漁撈及內陸養殖漁業之總漁業生產量。",
+    "Explain": "指在內陸從事水產動植物之採捕為業者之生產量。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "868877",
     "NewTaipei": "19325",
     "Taipei": "-",
@@ -25,6 +25,9 @@
     "Keelung": "57566",
     "HsinchuCity": "23233",
     "ChiaYiCity": "1",
+    "Kinmen": "-",
+    "Matsu": "-"
+}1",
     "Kinmen": "...",
     "Matsu": "..."
 }

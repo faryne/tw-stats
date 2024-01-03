@@ -3,7 +3,7 @@
     "Unit": "家",
     "Explain": "依加值型及非加值型營業稅法第五章第二十八條辦理營利事業稅籍登記之公司行號家數。",
     "ByYear": 89,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "1057188",
     "NewTaipei": "158554",
     "Taipei": "193039",
@@ -25,6 +25,7 @@
     "Keelung": "16353",
     "HsinchuCity": "19720",
     "ChiaYiCity": "14873",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

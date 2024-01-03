@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "指土壤不容易儲水或水量不足，只能栽培陸稻、雜糧及果樹類等之耕地面積。",
     "ByYear": 87,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "408138",
     "NewTaipei": "19949",
     "Taipei": "2185",
@@ -25,6 +25,7 @@
     "Keelung": "495",
     "HsinchuCity": "677",
     "ChiaYiCity": "1020",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

@@ -3,8 +3,8 @@
     "Unit": "公頃",
     "Explain": "指實際作為農耕使用之土地面積，亦包括短期休閒或休耕土地。",
     "ByYear": 101,
-    "Total": "...",
-    "Taiwan": "802876.021",
+    "Total": "-",
+    "Taiwan": "802876.02",
     "NewTaipei": "27179.92",
     "Taipei": "3221.15",
     "Taoyuan": "36611.25",
@@ -15,7 +15,7 @@
     "HsinchuCounty": "28425.3",
     "Miaoli": "33158.22",
     "Changhwa": "62022.81",
-    "Nantou": "65491.921",
+    "Nantou": "65491.92",
     "Yunlin": "80351.4",
     "ChiaYiCounty": "73814.47",
     "Pingtung": "70935.6",
@@ -25,6 +25,7 @@
     "Keelung": "735.3",
     "HsinchuCity": "2308.51",
     "ChiaYiCity": "2023.55",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+} "..."
 }

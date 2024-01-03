@@ -3,8 +3,8 @@
     "Unit": "千元",
     "Explain": "指環保單位執行污染(包括畜牧廢水、其他事業廢水)稽查，對違反法令規定之受查對象，給予處分罰金之總額。",
     "ByYear": 99,
-    "Total": "188432.2",
-    "Taiwan": "188328.2",
+    "Total": "188432",
+    "Taiwan": "188328",
     "NewTaipei": "18756",
     "Taipei": "1690",
     "Taoyuan": "43372",
@@ -14,7 +14,7 @@
     "Ilan": "6328",
     "HsinchuCounty": "7594",
     "Miaoli": "7826",
-    "Changhwa": "16414.2",
+    "Changhwa": "16414",
     "Nantou": "6100",
     "Yunlin": "5408",
     "ChiaYiCounty": "2620",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "176",
     "Kinmen": "104",
     "Matsu": "-"
+} "-"
 }

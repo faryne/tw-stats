@@ -5,7 +5,7 @@
     "ByYear": 87,
     "Total": "0.79",
     "Taiwan": "0.79",
-    "NewTaipei": "0",
+    "NewTaipei": "-",
     "Taipei": "0.84",
     "Taoyuan": "-",
     "Taichung": "1.82",
@@ -24,7 +24,7 @@
     "Penghu": "0.13",
     "Keelung": "0.13",
     "HsinchuCity": "-",
-    "ChiaYiCity": "0",
+    "ChiaYiCity": "-",
     "Kinmen": "0.26",
     "Matsu": "1.1"
 }

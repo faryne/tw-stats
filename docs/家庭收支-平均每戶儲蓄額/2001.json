@@ -3,7 +3,7 @@
     "Unit": "元",
     "Explain": "平均每一戶之儲蓄總額。",
     "ByYear": 90,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "210779",
     "NewTaipei": "203119",
     "Taipei": "262034",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "150875",
     "Kinmen": "278529",
     "Matsu": "517142"
+}
 }

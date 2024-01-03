@@ -3,7 +3,7 @@
     "Unit": "人",
     "Explain": "平均每一戶之人口數。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "3.63",
     "NewTaipei": "3.72",
     "Taipei": "3.59",
@@ -26,5 +26,6 @@
     "HsinchuCity": "3.87",
     "ChiaYiCity": "3.23",
     "Kinmen": "3.7",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

@@ -3,7 +3,7 @@
     "Unit": "頭",
     "Explain": "年底在養豬之總頭數。",
     "ByYear": 90,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "7164605",
     "NewTaipei": "142274",
     "Taipei": "5004",
@@ -25,6 +25,7 @@
     "Keelung": "1030",
     "HsinchuCity": "8992",
     "ChiaYiCity": "5552",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

@@ -3,7 +3,7 @@
     "Unit": "坪",
     "Explain": "平均每人所享用的住宅坪數。",
     "ByYear": 88,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "10.91",
     "NewTaipei": "8.56",
     "Taipei": "8.55",
@@ -26,5 +26,6 @@
     "HsinchuCity": "10.86",
     "ChiaYiCity": "12.25",
     "Kinmen": "14.62",
-    "Matsu": "..."
+    "Matsu": "-"
+}."
 }

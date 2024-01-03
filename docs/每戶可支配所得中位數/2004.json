@@ -3,7 +3,7 @@
     "Unit": "元",
     "Explain": "每戶可支配所得中位數。",
     "ByYear": 93,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "773320",
     "NewTaipei": "827984",
     "Taipei": "1078093",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "597171",
     "Kinmen": "669213",
     "Matsu": "923419"
+}
 }

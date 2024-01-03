@@ -3,7 +3,7 @@
     "Unit": "人",
     "Explain": "國民中學平均每一教師教導學生數。",
     "ByYear": 108,
-    "Total": "9.87",
+    "Total": "9.88",
     "Taiwan": "9.89",
     "NewTaipei": "10.38",
     "Taipei": "9.11",
@@ -12,7 +12,7 @@
     "Tainan": "10.54",
     "Kaohsiung": "9.99",
     "Ilan": "9.39",
-    "HsinchuCounty": "9.65",
+    "HsinchuCounty": "9.7",
     "Miaoli": "9.01",
     "Changhwa": "10.8",
     "Nantou": "8.77",
@@ -27,4 +27,4 @@
     "ChiaYiCity": "10.08",
     "Kinmen": "7.92",
     "Matsu": "4.08"
-}
+}}

@@ -3,7 +3,7 @@
     "Unit": "臺",
     "Explain": "每百戶擁有電話機數。",
     "ByYear": 96,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "113.18",
     "NewTaipei": "118.73",
     "Taipei": "133.63",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "101",
     "Kinmen": "121.58",
     "Matsu": "111.01"
+}
 }

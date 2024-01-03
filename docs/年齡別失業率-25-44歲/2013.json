@@ -3,7 +3,7 @@
     "Unit": "％",
     "Explain": "25-44歲年齡組之失業率。",
     "ByYear": 102,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "4.3",
     "NewTaipei": "4.5",
     "Taipei": "4.5",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "4.3",
     "Kinmen": "1.3",
     "Matsu": "0.2"
+}
 }

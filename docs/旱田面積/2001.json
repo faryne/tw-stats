@@ -3,13 +3,13 @@
     "Unit": "公頃",
     "Explain": "指土壤不容易儲水或水量不足，只能栽培陸稻、雜糧及果樹類等之耕地面積。",
     "ByYear": 90,
-    "Total": "...",
-    "Taiwan": "409768.502",
+    "Total": "-",
+    "Taiwan": "409768.5",
     "NewTaipei": "19600.96",
     "Taipei": "2021.83",
     "Taoyuan": "7955.61",
     "Taichung": "27026.09",
-    "Tainan": "44874.272",
+    "Tainan": "44874.27",
     "Kaohsiung": "29721.02",
     "Ilan": "10408.31",
     "HsinchuCounty": "15235.13",
@@ -25,6 +25,7 @@
     "Keelung": "489.14",
     "HsinchuCity": "671.6",
     "ChiaYiCity": "1020",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}: "..."
 }

@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "指能蓄水，經常可以栽培水稻之耕地面積。",
     "ByYear": 101,
-    "Total": "...",
+    "Total": "-",
     "Taiwan": "399432.06",
     "NewTaipei": "12173.95",
     "Taipei": "1132.21",
@@ -25,6 +25,7 @@
     "Keelung": "250.23",
     "HsinchuCity": "1647.55",
     "ChiaYiCity": "804.61",
-    "Kinmen": "...",
-    "Matsu": "..."
+    "Kinmen": "-",
+    "Matsu": "-"
+}..."
 }

@@ -1,10 +1,10 @@
 {
     "Name": "事故傷害死亡率",
-    "Unit": "0／0000",
+    "Unit": "0/0000",
     "Explain": "每十萬人口中事故傷害死亡人數。",
     "ByYear": 100,
-    "Total": "28.999481665524",
-    "Taiwan": "29.0128579770565",
+    "Total": "29",
+    "Taiwan": "29.01",
     "NewTaipei": "18.8",
     "Taipei": "15.3",
     "Taoyuan": "24.2",
@@ -26,5 +26,7 @@
     "HsinchuCity": "24.9",
     "ChiaYiCity": "25.7",
     "Kinmen": "26.8",
+    "Matsu": "20"
+}26.8",
     "Matsu": "20"
 }
