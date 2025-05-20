@@ -364,7 +364,7 @@
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 99,
-        "Total": "27.11",
+        "Total": "27",
         "Taiwan": "26.75",
         "NewTaipei": "11.65",
         "Taipei": "44.8",
@@ -386,15 +386,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.9",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2011": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 100,
-        "Total": "27.12",
+        "Total": "27.01",
         "Taiwan": "26.76",
         "NewTaipei": "11.86",
         "Taipei": "44.8",
@@ -416,15 +416,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.9",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2012": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 101,
-        "Total": "27.12",
+        "Total": "27.01",
         "Taiwan": "26.76",
         "NewTaipei": "11.86",
         "Taipei": "44.8",
@@ -446,15 +446,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.9",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2013": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 102,
-        "Total": "27.15",
+        "Total": "27.04",
         "Taiwan": "26.78",
         "NewTaipei": "12.09",
         "Taipei": "53.44",
@@ -476,15 +476,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.71",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2014": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 103,
-        "Total": "27.11",
+        "Total": "27",
         "Taiwan": "26.75",
         "NewTaipei": "12.09",
         "Taipei": "53.44",
@@ -506,15 +506,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.71",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2015": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 104,
-        "Total": "27.12",
+        "Total": "27.01",
         "Taiwan": "26.76",
         "NewTaipei": "12.11",
         "Taipei": "53.43",
@@ -536,15 +536,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.71",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2016": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 105,
-        "Total": "27.12",
+        "Total": "27.02",
         "Taiwan": "26.76",
         "NewTaipei": "12.11",
         "Taipei": "53.43",
@@ -566,15 +566,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.71",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2017": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 106,
-        "Total": "27.09",
+        "Total": "26.99",
         "Taiwan": "26.73",
         "NewTaipei": "12.13",
         "Taipei": "36.14",
@@ -596,15 +596,15 @@
         "Keelung": "5.78",
         "HsinchuCity": "59.71",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2018": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 107,
-        "Total": "27.12",
+        "Total": "27.01",
         "Taiwan": "26.75",
         "NewTaipei": "12.42",
         "Taipei": "36.14",
@@ -626,15 +626,15 @@
         "Keelung": "7.15",
         "HsinchuCity": "59.71",
         "ChiaYiCity": "88.62",
-        "Kinmen": "100",
-        "Matsu": "100"
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
     },
     "2019": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 108,
-        "Total": "25.82",
+        "Total": "25.75",
         "Taiwan": "25.49",
         "NewTaipei": "10.64",
         "Taipei": "44.79",
@@ -657,14 +657,14 @@
         "HsinchuCity": "62.56",
         "ChiaYiCity": "80.81",
         "Kinmen": "89.26",
-        "Matsu": "100"
+        "Matsu": "20.27"
     },
     "2020": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 109,
-        "Total": "25.82",
+        "Total": "25.75",
         "Taiwan": "25.49",
         "NewTaipei": "10.64",
         "Taipei": "44.79",
@@ -687,14 +687,14 @@
         "HsinchuCity": "62.56",
         "ChiaYiCity": "80.81",
         "Kinmen": "89.26",
-        "Matsu": "100"
+        "Matsu": "20.27"
     },
     "2021": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
         "ByYear": 110,
-        "Total": "25.99",
+        "Total": "25.93",
         "Taiwan": "25.66",
         "NewTaipei": "10.67",
         "Taipei": "44.79",
@@ -717,7 +717,7 @@
         "HsinchuCity": "62.56",
         "ChiaYiCity": "80.81",
         "Kinmen": "89.26",
-        "Matsu": "100"
+        "Matsu": "20.27"
     },
     "2022": {
         "Name": "平原地區占土地面積比率",
@@ -748,33 +748,38 @@
         "ChiaYiCity": "80.8",
         "Kinmen": "89.26",
         "Matsu": "20.27"
-    }
-}42.6151008750777",
-        "Pingtung": "34.4873251382773",
-        "Taitung": "6.32536620554665",
-        "Hualien": "10.8750920424388",
-        "Penghu": "95.9011256927689",
-        "Keelung": "5.78409432437297",
-        "HsinchuCity": "59.7129596380695",
-        "ChiaYiCity": "88.6215214841667",
-        "Kinmen": "100",
-        "Matsu": "100"
     },
-    "2018": {
+    "2023": {
         "Name": "平原地區占土地面積比率",
         "Unit": "％",
         "Explain": "指平原地區占土地面積之百分比。",
-        "ByYear": 107,
-        "Total": "27.1189504753117",
-        "Taiwan": "26.7537613102986",
-        "NewTaipei": "12.4228216310827",
-        "Taipei": "36.1441532128255",
-        "Taoyuan": "54.4323537168477",
-        "Taichung": "28.0625625537045",
-        "Tainan": "62.3955086687761",
-        "Kaohsiung": "26.0423725793336",
-        "Ilan": "18.4055085005302",
-        "HsinchuCounty": "13.4376141170151",
+        "ByYear": 112,
+        "Total": "26.04",
+        "Taiwan": "25.78",
+        "NewTaipei": "11.62",
+        "Taipei": "45.02",
+        "Taoyuan": "56.82",
+        "Taichung": "29.93",
+        "Tainan": "62.57",
+        "Kaohsiung": "24.62",
+        "Ilan": "12.99",
+        "HsinchuCounty": "13.45",
+        "Miaoli": "12.66",
+        "Changhwa": "88.36",
+        "Nantou": "2.57",
+        "Yunlin": "88.33",
+        "ChiaYiCounty": "38.3",
+        "Pingtung": "33.52",
+        "Taitung": "5.59",
+        "Hualien": "10.22",
+        "Penghu": "95.85",
+        "Keelung": "6.27",
+        "HsinchuCity": "62.56",
+        "ChiaYiCity": "80.8",
+        "Kinmen": "89.26",
+        "Matsu": "20.27"
+    }
+}ounty": "13.4376141170151",
         "Miaoli": "12.4794286966502",
         "Changhwa": "87.7140272301833",
         "Nantou": "4.98329938662139",

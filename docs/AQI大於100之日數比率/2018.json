@@ -1,7 +1,7 @@
 {
     "Name": "AQI\u003e100之日數比率",
     "Unit": "％",
-    "Explain": "105年(含)前指PSI\u003e100之日數占PSI總監測日數之百分比；106年起指AQI\u003e100之日數占AQI總監測日數之百分比。PSI係指空氣污染指標 (Pollutant Standard Index)；AQI係指空氣品質指標 (Air Quality Index)。",
+    "Explain": "105年(含)前指PSI\u003e100之日數占PSI總監測日數之百分比；106年起指AQI\u003e100之日數占AQI總監測日數之百分比。PSI係指空氣污染指標(PollutantStandardIndex)；AQI係指空氣品質指標(AirQualityIndex)。",
     "ByYear": 107,
     "Total": "16.01",
     "Taiwan": "15.76",
@@ -27,4 +27,5 @@
     "ChiaYiCity": "25.48",
     "Kinmen": "24.11",
     "Matsu": "22.47"
+}.47"
 }

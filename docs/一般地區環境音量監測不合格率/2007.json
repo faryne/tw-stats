@@ -1,7 +1,7 @@
 {
     "Name": "一般地區環境音量監測不合格率",
     "Unit": "％",
-    "Explain": "指監測時段中均能音量超過「一般地區環境音量標準」所占之百分比。",
+    "Explain": "指監測時段中均能音量超過「一般地區環境音量標準」所占之百分比。因金門縣、連江縣無測站，故各該縣、總計以「-」表示(數值無統計)。",
     "ByYear": 96,
     "Total": "-",
     "Taiwan": "11.72",
@@ -24,10 +24,6 @@
     "Penghu": "-",
     "Keelung": "5",
     "HsinchuCity": "-",
-    "ChiaYiCity": "5",
-    "Kinmen": "-",
-    "Matsu": "-"
-}HsinchuCity": "-",
     "ChiaYiCity": "5",
     "Kinmen": "-",
     "Matsu": "-"

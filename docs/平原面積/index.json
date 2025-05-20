@@ -364,7 +364,7 @@
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 99,
-        "Total": "981156",
+        "Total": "977231",
         "Taiwan": "963110",
         "NewTaipei": "23908",
         "Taipei": "12176",
@@ -386,15 +386,15 @@
         "Keelung": "768",
         "HsinchuCity": "6239",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2011": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 100,
-        "Total": "981556",
+        "Total": "977631",
         "Taiwan": "963510",
         "NewTaipei": "24353",
         "Taipei": "12176",
@@ -416,15 +416,15 @@
         "Keelung": "768",
         "HsinchuCity": "6239",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2012": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 101,
-        "Total": "981556",
+        "Total": "977631",
         "Taiwan": "963510",
         "NewTaipei": "24353",
         "Taipei": "12176",
@@ -446,15 +446,15 @@
         "Keelung": "768",
         "HsinchuCity": "6239",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2013": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 102,
-        "Total": "982521",
+        "Total": "978596",
         "Taiwan": "964475",
         "NewTaipei": "24807",
         "Taipei": "14525",
@@ -476,15 +476,15 @@
         "Keelung": "768",
         "HsinchuCity": "6219",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2014": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 103,
-        "Total": "981144",
+        "Total": "977219",
         "Taiwan": "963098",
         "NewTaipei": "24807",
         "Taipei": "14525",
@@ -506,15 +506,15 @@
         "Keelung": "768",
         "HsinchuCity": "6219",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2015": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 104,
-        "Total": "981656",
+        "Total": "977731",
         "Taiwan": "963611",
         "NewTaipei": "24862",
         "Taipei": "14522",
@@ -536,15 +536,15 @@
         "Keelung": "768",
         "HsinchuCity": "6219",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2016": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 105,
-        "Total": "981722",
+        "Total": "977797",
         "Taiwan": "963677",
         "NewTaipei": "24862",
         "Taipei": "14522",
@@ -566,15 +566,15 @@
         "Keelung": "768",
         "HsinchuCity": "6219",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2017": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 106,
-        "Total": "980677",
+        "Total": "976752",
         "Taiwan": "962632",
         "NewTaipei": "24891",
         "Taipei": "9824",
@@ -596,15 +596,15 @@
         "Keelung": "768",
         "HsinchuCity": "6219",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2018": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 107,
-        "Total": "981548",
+        "Total": "977623",
         "Taiwan": "963503",
         "NewTaipei": "25499",
         "Taipei": "9824",
@@ -626,15 +626,15 @@
         "Keelung": "949",
         "HsinchuCity": "6219",
         "ChiaYiCity": "5320",
-        "Kinmen": "15166",
-        "Matsu": "2880"
+        "Kinmen": "13537",
+        "Matsu": "584"
     },
     "2019": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 108,
-        "Total": "934411",
+        "Total": "932114",
         "Taiwan": "917994",
         "NewTaipei": "21840",
         "Taipei": "12173",
@@ -657,14 +657,14 @@
         "HsinchuCity": "6516",
         "ChiaYiCity": "4851",
         "Kinmen": "13537",
-        "Matsu": "2880"
+        "Matsu": "584"
     },
     "2020": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 109,
-        "Total": "934411",
+        "Total": "932114",
         "Taiwan": "917994",
         "NewTaipei": "21840",
         "Taipei": "12173",
@@ -687,14 +687,14 @@
         "HsinchuCity": "6516",
         "ChiaYiCity": "4851",
         "Kinmen": "13537",
-        "Matsu": "2880"
+        "Matsu": "584"
     },
     "2021": {
         "Name": "平原面積",
         "Unit": "公頃",
         "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
         "ByYear": 110,
-        "Total": "940649",
+        "Total": "938353",
         "Taiwan": "924233",
         "NewTaipei": "21900",
         "Taipei": "12173",
@@ -717,7 +717,7 @@
         "HsinchuCity": "6516",
         "ChiaYiCity": "4851",
         "Kinmen": "13537",
-        "Matsu": "2880"
+        "Matsu": "584"
     },
     "2022": {
         "Name": "平原面積",
@@ -743,6 +743,36 @@
         "Taitung": "19641",
         "Hualien": "47281",
         "Penghu": "12166",
+        "Keelung": "833",
+        "HsinchuCity": "6516",
+        "ChiaYiCity": "4850",
+        "Kinmen": "13537",
+        "Matsu": "584"
+    },
+    "2023": {
+        "Name": "平原面積",
+        "Unit": "公頃",
+        "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
+        "ByYear": 112,
+        "Total": "942506",
+        "Taiwan": "928386",
+        "NewTaipei": "23842",
+        "Taipei": "12237",
+        "Taoyuan": "69379",
+        "Taichung": "66301",
+        "Tainan": "137121",
+        "Kaohsiung": "72682",
+        "Ilan": "27845",
+        "HsinchuCounty": "19203",
+        "Miaoli": "23043",
+        "Changhwa": "94937",
+        "Nantou": "10550",
+        "Yunlin": "114017",
+        "ChiaYiCounty": "72917",
+        "Pingtung": "93030",
+        "Taitung": "19641",
+        "Hualien": "47281",
+        "Penghu": "12160",
         "Keelung": "833",
         "HsinchuCity": "6516",
         "ChiaYiCity": "4850",

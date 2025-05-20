@@ -1,6 +1,7 @@
 package services
 
 import (
+	"crypto/tls"
 	"encoding/json"
 	"encoding/xml"
 	"fmt"
@@ -80,8 +81,14 @@ func GenerateGeneralData() {
 
 func readAndParseXML() ([]models.Data, error) {
 	url := "https://ws.dgbas.gov.tw/001/Upload/461/relfile/11525/229624/%E7%B8%A3%E5%B8%82%E6%8C%87%E6%A8%99r.xml"
+	client := &http.Client{
+        Transport: &http.Transport{
+            TLSClientConfig: &tls.Config{InsecureSkipVerify: true},
+        },
+    }
+	resp, err := client.Get(url)
 	// 抓取內容
-	resp, err := http.Get(url)
+	// resp, err := http.Get(url)
 	if err != nil {
 		return nil, err
 	}

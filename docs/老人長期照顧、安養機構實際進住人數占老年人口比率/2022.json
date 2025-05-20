@@ -3,12 +3,12 @@
     "Unit": "人/萬人",
     "Explain": "每萬名老人中，實際已由長期照顧、安養機構收容之人數。",
     "ByYear": 111,
-    "Total": "123.94",
-    "Taiwan": "115.42",
+    "Total": "123.9",
+    "Taiwan": "115.38",
     "NewTaipei": "132.78",
     "Taipei": "87.91",
     "Taoyuan": "90.9",
-    "Taichung": "76.72",
+    "Taichung": "76.34",
     "Tainan": "138.02",
     "Kaohsiung": "133.33",
     "Ilan": "240.52",
@@ -27,4 +27,4 @@
     "ChiaYiCity": "148.99",
     "Kinmen": "90.45",
     "Matsu": "117.53"
-}
+}}

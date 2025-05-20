@@ -3,7 +3,7 @@
     "Unit": "公頃",
     "Explain": "指低海拔之平坦土地，包括平原、盆地、沖積扇、縱谷及部分臺地。",
     "ByYear": 100,
-    "Total": "981556",
+    "Total": "977631",
     "Taiwan": "963510",
     "NewTaipei": "24353",
     "Taipei": "12176",
@@ -25,9 +25,9 @@
     "Keelung": "768",
     "HsinchuCity": "6239",
     "ChiaYiCity": "5320",
-    "Kinmen": "15166",
-    "Matsu": "2880"
-}    "ChiaYiCity": "5319.56",
+    "Kinmen": "13537",
+    "Matsu": "584"
+}}    "ChiaYiCity": "5319.56",
     "Kinmen": "15165.6",
     "Matsu": "2880"
 }
