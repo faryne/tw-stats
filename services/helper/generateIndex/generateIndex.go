@@ -13,6 +13,7 @@ var totalIndexes = make(map[string]string)
 func Add(value string) {
 	keyLength := len(totalIndexes)
 	totalIndexes[fmt.Sprintf("%04d", keyLength-1)] = value
+	fmt.Printf("%04d -- %v¥n", keyLength-1, value)
 }
 
 func Generate() {
