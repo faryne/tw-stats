@@ -42,7 +42,7 @@ func GenerateGeneralData() {
 		fName := subDirName + "/" + year + ".json"
 		// 如果檔案不存在則建立
 		var fp *os.File
-		if fp, err = os.OpenFile(fName, os.O_CREATE|os.O_WRONLY, fs.ModePerm); err != nil {
+		if fp, err = os.OpenFile(fName, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, fs.ModePerm); err != nil {
 			fmt.Println(err)
 			return
 		}
@@ -67,7 +67,7 @@ func GenerateGeneralData() {
 	for k, v := range index {
 		indexFileName := constants.RootDirName + "/" + strings.ReplaceAll(k, ">", "大於") + "/index.json"
 		var fpIndex *os.File
-		if fpIndex, err = os.OpenFile(indexFileName, os.O_CREATE|os.O_WRONLY, fs.ModePerm); err != nil {
+		if fpIndex, err = os.OpenFile(indexFileName, os.O_CREATE|os.O_WRONLY|os.O_TRUNC, fs.ModePerm); err != nil {
 			fmt.Println(err)
 			return
 		}
